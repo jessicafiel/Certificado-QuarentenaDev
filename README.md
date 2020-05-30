@@ -1,2 +1,2 @@
 # Certificado-QuarentenaDev
-desenvolvido durante a #imersaocss desenvolvido pela Alura Cursos.
+desenvolvido durante a #quarentenadev desenvolvido pela Alura Cursos.
